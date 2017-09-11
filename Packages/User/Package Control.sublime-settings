@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"0_package_control_loader"
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Emmet",
+		"GitSavvy",
+		"Goto-CSS-Declaration",
+		"HTML-CSS-JS Prettify",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Sass",
+		"Terminal",
+		"View In Browser",
+		"W3CValidators"
+	]
+}
